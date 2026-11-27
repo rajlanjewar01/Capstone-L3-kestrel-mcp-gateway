@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+certs/
+*.pem
+*.key
+kill_switch.json
+audit_logs/
+.venv/
+*.zip
