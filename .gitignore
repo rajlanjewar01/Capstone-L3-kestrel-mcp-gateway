@@ -14,3 +14,7 @@ kill_switch.json
 audit_logs/
 .venv/
 *.zip
+*.pptx
+*.html
+fill_ppt*.py
+PPT_FILL_GUIDE.md
